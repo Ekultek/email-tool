@@ -3,6 +3,17 @@
 ALL INFORMATION HAS BEEN CHANGED TO PROTECT THE IDENTITY OF THOSE THAT ARE LISTED. PHONE NUMBERS, EMAILS, INBOXES, ETC
 WILL NOT WORK. THIS IS TO DISPLAY THIS PROGRAM AND NOTHING MORE.
 
+# TERMS OF SERVICE #
+
+Whilst running this program you agree to the following:
+  - You are liable for your own actions
+  - You are running this program to verify the stackoverflow question posted here: http://codereview.stackexchange.com/questions/137995/emails-emails-everywhere
+  - You will not in any way try to use any of the information gathered here for less then ethical purposes, including but not limited to, personal gain, hacking, ethical hacking, data mining, malicious intents of any kind.
+  - You have been warned about the terms of service.
+  - You agree that you are a stackoverflow user and have come here in order to look at the code of the program, and help fix it
+
+If you agree to these terms please continue. If for any chance you disagree, please leave this repository. Thank you.
+
 # Basic Help #
  
  The help section of this program will show you the possible flags and how to run this program
@@ -68,4 +79,4 @@ WILL NOT WORK. THIS IS TO DISPLAY THIS PROGRAM AND NOTHING MORE.
  
  To verify that it installed correctly, open a CMD and type 'irb' if something happens your golden, if nothing
  happens contact Tme for additional assistance. Also log the error (if you get one) into the text files
- issues.txt and send it to me with the subject gen_email issue    
+ issues.txt and send it to me with the subject gen_email issue 
